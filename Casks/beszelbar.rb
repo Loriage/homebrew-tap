@@ -1,8 +1,8 @@
 cask "beszelbar" do
   version "1.0.0"
-  sha256 "a5120a8d5aeaa7bee9dfdbec141b1725f6db8f4dcf9884e6d19cfdca7fb1ebd5"
+  sha256 "f6aa7b1146281f7f982e3c8c7cee28033f5a75e59bd9fdfe34381c739c267019"
 
-  url "https://github.com/Loriage/BeszelBar/releases/download/v#{version}/BeszelBar-#{version}.zip",
+  url "https://github.com/Loriage/BeszelBar/releases/download/v1.0.0/BeszelBar-1.0.0.zip",
       verified: "github.com/Loriage/BeszelBar/"
   name "BeszelBar"
   desc "Monitor Beszel hubs from the macOS menu bar"
