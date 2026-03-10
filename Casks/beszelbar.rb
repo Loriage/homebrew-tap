@@ -1,6 +1,6 @@
 cask "beszelbar" do
   version "1.0.0"
-  sha256 "e2dd521765fd8f95785b5ab57bfb2a91799be813bcc1d51bf0a862ab185ed819"
+  sha256 "a5120a8d5aeaa7bee9dfdbec141b1725f6db8f4dcf9884e6d19cfdca7fb1ebd5"
 
   url "https://github.com/Loriage/BeszelBar/releases/download/v#{version}/BeszelBar-#{version}.zip",
       verified: "github.com/Loriage/BeszelBar/"
